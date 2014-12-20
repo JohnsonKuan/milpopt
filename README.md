@@ -7,8 +7,4 @@ Version: 1.0.0
 
 Created 12/19/2014
 
-Algorithms:
-
-  LP: Simplex
-  
-  ILP: Gomory-Chvatal Cutting-Plane
+Algorithms: Simplex (LP), Gomory-Chvatal Cutting-Plane (ILP)
