@@ -1,5 +1,3 @@
-"""
-
 MILPOpt - Python Package for Mixed Integer Linear Programming (MILP) Optimization
 ==========================================================================================
 
@@ -10,5 +8,3 @@ Created 12/19/2014
 Algorithms:
   LP: Simplex
   ILP: Gomory-Chvatal Cutting-Plane
-
-"""
